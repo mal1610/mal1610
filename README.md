@@ -2,7 +2,7 @@
 
 My name is **Malcolm Lau** and I am an aspiring Data Analyst with a keen interest in Natural Language Processing and a dabbler in Sports Analytics in my free time.
 
-Welcome to my Github account where I document my projects & learnings in my journey towards a career in Data 
+Welcome to my Github account where I document my projects & learnings in my journey towards a career in Data.
 
 - 🔭 I’m currently working on:  **AWS CCP** 
 - 🌱 I’m currently: Strengthening my **SQL**, **Statistics** & **ML** concepts
