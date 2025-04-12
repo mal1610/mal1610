@@ -6,9 +6,9 @@ Welcome to my Github account where I document my projects & learnings in my jour
 
 My (slowly growing) work on Data Viz can be found [here on my Tableau Public Profile](https://public.tableau.com/app/profile/malcolm.lau)
 
-- 🔭 I’m currently working on:  **AWS CCP** 
-- 🌱 I’m currently: Strengthening my **SQL**, **Statistics** & **ML** concepts
-- 💬 Ask me about: Life @ General Assembly **Data Science Immersive**
+- 🔭 I’m currently working on:  **AWS Associate Solutions Architect** 
+- 🌱 I’m currently: Strengthening my **SQL**, **Python** & Basic **DevOps** concepts
+- 💬 Ask me about: Life @ General Assembly **Data Science Immersive**, Cloud Infrastructure Engineering @ **NTU PACE**
 - ⚡ Fun fact: I'm the Under 10/ Under 11 Head Coach at [Soaring Dreams Football Academy](https://www.facebook.com/SoaringDreamsFootballAcademy), a grassroots community football academy.
 
 ## Technologies & Tools
